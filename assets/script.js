@@ -1,5 +1,9 @@
 // Assignment code here
-
+// Character sets
+var nums = "0123456789".split("");
+var special = "!%&,.*+-./<>?~".split("");
+var lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
