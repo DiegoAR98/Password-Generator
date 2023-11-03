@@ -1,7 +1,7 @@
 # Password-Generator
 
 ## Description
-The Password Generator is a simple yet powerful application that enables users to create strong and secure random passwords based on a set of criteria that they select. Whether you need a password for your new social media account, email, or to protect sensitive data, this application ensures you get a robust password without the headache of trying to come up with one yourself.
+The Password Generator is a simple yet powerful application that enables users to create strong and secure random passwords based on a set of criteria that they select. Whether you need a password for your new social media account, email, or to protect sensitive data, this application ensures you get a robust password without the headache of trying to come up with one yourself.Please feel free to explore the source code and visit the live version here (https://diegoar98.github.io/Password-Generator/)
 
 ## Features
 - **Customizable Password Length:** Choose how long your password should be.
